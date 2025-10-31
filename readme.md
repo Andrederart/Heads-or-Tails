@@ -1,5 +1,5 @@
 Hi,
 
-Random Projects I make it PyCharm :D
+Heads or Tails game I made! :D
 
 Thanks,
